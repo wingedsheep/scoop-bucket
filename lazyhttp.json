@@ -1,0 +1,21 @@
+{
+    "version": "0.6.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/wingedsheep/lazyhttp/releases/download/v0.6.0/lazyhttp_windows_amd64.zip",
+            "bin": [
+                "lazyhttp.exe"
+            ],
+            "hash": "2905ffe65c2affd7ab4765b484c31f9a7ac06205e447ac13d54f2b6c4ed85e0c"
+        },
+        "arm64": {
+            "url": "https://github.com/wingedsheep/lazyhttp/releases/download/v0.6.0/lazyhttp_windows_arm64.zip",
+            "bin": [
+                "lazyhttp.exe"
+            ],
+            "hash": "cb7a0e931d28872974db20b927697ebdaba4737a59ba2cb3ad0bb4420662594b"
+        }
+    },
+    "homepage": "https://github.com/wingedsheep/lazyhttp",
+    "description": "Terminal UI for running .http test plans step by step"
+}
