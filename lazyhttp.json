@@ -1,19 +1,19 @@
 {
-    "version": "0.19.5",
+    "version": "0.19.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wingedsheep/lazyhttp/releases/download/v0.19.5/lazyhttp_windows_amd64.zip",
+            "url": "https://github.com/wingedsheep/lazyhttp/releases/download/v0.19.6/lazyhttp_windows_amd64.zip",
             "bin": [
                 "lazyhttp.exe"
             ],
-            "hash": "f3d5e55f993fdd0d89c1c4d67296d3d70f04a81f2f046276fdba71f70438e29f"
+            "hash": "9c0ab9de7102dd020a5cdc7f13a46106a969b95dece8cb36f4091bbdd51c863d"
         },
         "arm64": {
-            "url": "https://github.com/wingedsheep/lazyhttp/releases/download/v0.19.5/lazyhttp_windows_arm64.zip",
+            "url": "https://github.com/wingedsheep/lazyhttp/releases/download/v0.19.6/lazyhttp_windows_arm64.zip",
             "bin": [
                 "lazyhttp.exe"
             ],
-            "hash": "b5e86789c9cc1aa8231361f026fac848025be9f5d9fa957dbdb5f45d54b16da9"
+            "hash": "b2666f576b5961b1bdb3cb5b948168543d2ea47bfedecddf755e710c9929b4d0"
         }
     },
     "homepage": "https://github.com/wingedsheep/lazyhttp",
